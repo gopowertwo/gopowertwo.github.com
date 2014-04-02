@@ -4,7 +4,7 @@
   <title><![CDATA[Georgi Zlatkov]]></title>
   <link href="http://gopowertwo.github.io/atom.xml" rel="self"/>
   <link href="http://gopowertwo.github.io/"/>
-  <updated>2013-05-16T13:15:15+03:00</updated>
+  <updated>2014-04-02T18:18:47+01:00</updated>
   <id>http://gopowertwo.github.io/</id>
   <author>
     <name><![CDATA[Georgi Zlatkov]]></name>
@@ -12,5 +12,16 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Android network traffic, tcpdump and Nexus 4]]></title>
+    <link href="http://gopowertwo.github.io/blog/2014/04/02/android-network-traffic/"/>
+    <updated>2014-04-02T17:52:00+01:00</updated>
+    <id>http://gopowertwo.github.io/blog/2014/04/02/android-network-traffic</id>
+    <content type="html"><![CDATA[<p><strong><em> Nexus 4 and tcpdump </em></strong></p>
+
+<p>Example post</p>
+]]></content>
+  </entry>
   
 </feed>
