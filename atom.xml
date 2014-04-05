@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Georgi Zlatkov]]></title>
+  <title><![CDATA[go2]]></title>
   <link href="http://gopowertwo.github.io/atom.xml" rel="self"/>
   <link href="http://gopowertwo.github.io/"/>
-  <updated>2014-04-02T18:18:47+01:00</updated>
+  <updated>2014-04-05T22:21:39+01:00</updated>
   <id>http://gopowertwo.github.io/</id>
   <author>
-    <name><![CDATA[Georgi Zlatkov]]></name>
+    <name><![CDATA[go2]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
@@ -18,9 +18,9 @@
     <link href="http://gopowertwo.github.io/blog/2014/04/02/android-network-traffic/"/>
     <updated>2014-04-02T17:52:00+01:00</updated>
     <id>http://gopowertwo.github.io/blog/2014/04/02/android-network-traffic</id>
-    <content type="html"><![CDATA[<p><strong><em> Nexus 4 and tcpdump </em></strong></p>
+    <content type="html"><![CDATA[<p><strong><em> Rooting Nexus 4 </em></strong></p>
 
-<p>Example post</p>
+<p>So, I decided to root my Nexus 4, which I also use as everyday mobile phone. While I was thinking about doing that for quite long, finally I had to do it because I needed to be able to capture network traffic. Fortunately for me, CyanogenMod team had released an installer which allows to intall CyanogenMod with few clicks. However, it required Windows Vista/7/8 to run the PC part of the installer, and I have been using Linux only for the last 5 years. Again fortunately for me, I had a copy of Windows 7 with a key,which I promptly installed on VirtualBox.</p>
 ]]></content>
   </entry>
   
